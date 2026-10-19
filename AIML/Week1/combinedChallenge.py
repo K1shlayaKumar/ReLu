@@ -1,7 +1,7 @@
 students = {
-    "Asha": [85, 90, 78],
+    "Ram": [85, 90, 78],
     "Ravi": [70, 65, 88],
-    "Meera": [92, 95, 89],
+    "Ranbir": [92, 95, 89],
 }
 
 for name, marks in students.items():
